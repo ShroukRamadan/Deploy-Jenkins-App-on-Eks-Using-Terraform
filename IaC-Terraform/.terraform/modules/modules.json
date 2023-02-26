@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"eks","Source":"./EKS","Dir":"EKS"},{"Key":"vpc","Source":"./Network","Dir":"Network"},{"Key":"jump-host","Source":"./Jump Host","Dir":"Jump Host"},{"Key":"","Source":"","Dir":"."}]}
